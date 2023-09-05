@@ -5,6 +5,7 @@ Hello I am currently a Junior at OLCHS
 		<ul>
 			<li> Javascript </li>
 			<li> Python </li>
+			<li> Java </li>
 		</ul>
 	<h2> Courses </h2>
 		<ul>
