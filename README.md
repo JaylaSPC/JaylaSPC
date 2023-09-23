@@ -1,4 +1,8 @@
-Hello I am currently a Junior at OLCHS
+Hello I am currently a Junior at OLCHS   
+I like making things
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaylaSPC&layout=compact)
 
 <details> <summary> More </summary>
 	<h2> Languages </h2>
