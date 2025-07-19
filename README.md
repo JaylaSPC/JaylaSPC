@@ -1,4 +1,4 @@
-CS Major at UIC
+CS Major at UIC <br>
 I like making things
 
 ---
