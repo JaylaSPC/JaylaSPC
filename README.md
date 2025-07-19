@@ -1,4 +1,4 @@
-Hello I am currently a Junior at OLCHS   
+CS Major at UIC
 I like making things
 
 ---
