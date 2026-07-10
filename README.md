@@ -1,8 +1,8 @@
 CS Major at UIC <br>
-I like making things
+I like making things sometimes
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaylaSPC&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JaylaSPC&layout=compact)
 
 <details> <summary> More </summary>
 	<h2> Languages </h2>
