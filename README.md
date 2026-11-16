@@ -9,6 +9,7 @@ I like making things sometimes
 		<ul>
 			<li> Javascript </li>
 			<li> Python </li>
+			<li> C/C++ </li>
 			<li> Java </li>
 		</ul>
 	<h2> Courses </h2>
