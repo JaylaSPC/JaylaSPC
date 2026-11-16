@@ -17,6 +17,9 @@ I like making things sometimes
 			<li> Project Lead the Way: Principles of Engineering (2022-2023) </li>
 			<li> AP Computer Science A (2023-2024) </li>
 			<li> UIC CS 141 (2025) </li>
+			<li> UIC CS 251 (2026) </li>
 			<li> UIC CS 211 (2026) </li>
+			<li> UIC CS 301 (2026) </li>
+			<li> UIC CS 261 (2026) </li>
 		</ul>
 </details>
